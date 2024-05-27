@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   build:
-
+    environment: axio-maven
     runs-on: ubuntu-latest
 
     steps:
